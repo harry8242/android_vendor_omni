@@ -6,7 +6,6 @@ PRODUCT_PACKAGES += \
     Chromium \
     OmniJaws \
     OmniStyle \
-    QuickSearchBox \
     OmniClockOSS \
     MusicFX \
     audio_effects.conf \
@@ -14,7 +13,8 @@ PRODUCT_PACKAGES += \
     Phonograph \
     Turbo \
     MatLog \
-    OmniChange
+    OmniChange \
+    OmniBrain
 
 # Additional tools
 PRODUCT_PACKAGES += \
